@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **saipkmm100@gmail.com**
 
-- 🔭 I’m currently working on TS & redux ,<a href="https://github.com/sai-na/accident-counter-rtk/tree/create-action-exercise"> repo link </a>  <a href="https://create-action-exercise--aquamarine-sfogliatella-e99639.netlify.app/">hosted link</a>
+- 🔭 I’m currently working on TS & redux - <a href="https://github.com/sai-na/accident-counter-rtk/tree/create-action-exercise"> repo link </a> , <a href="https://create-action-exercise--aquamarine-sfogliatella-e99639.netlify.app/">hosted link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
