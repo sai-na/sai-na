@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **saipkmm100@gmail.com**
 
+- 🔭 I’m currently working on TS & redux ,  <a href="https://create-action-exercise--aquamarine-sfogliatella-e99639.netlify.app/">project link</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-nath-849121221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-nath-849121221/" height="30" width="40" /></a>
@@ -22,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-na&" alt="sai-na" /></p>
 
-- 🔭 I’m currently working on [counter]([https://aquamarine-sfogliatella-e99639.netlify.app/](https://create-action-exercise--aquamarine-sfogliatella-e99639.netlify.app/))
+
