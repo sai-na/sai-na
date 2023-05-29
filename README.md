@@ -21,3 +21,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-na&show_icons=true&locale=en&layout=compact" alt="sai-na" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-na&" alt="sai-na" /></p>
+
+- 🔭 I’m currently working on [counter]([https://aquamarine-sfogliatella-e99639.netlify.app/](https://create-action-exercise--aquamarine-sfogliatella-e99639.netlify.app/))
