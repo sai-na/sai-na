@@ -33,11 +33,11 @@ Building [Meru Apps](https://github.com/sai-na) into a sustainable indie studio 
 
 ### 📊 GitHub
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-na&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-na&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-na&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai-na&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sai-na&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -56,9 +56,8 @@ Open to:
 - **B2B contracts** — Flutter apps, AI integration, custom backends
 - **Indie collaborations** — privacy-focused mobile utilities
 
-📩 [Add your email]  
-💼 [Add your LinkedIn]  
-🐙 [Meru Apps](https://github.com/sai-na)
+📩 [saipkmm100@gmail.com](mailto:saipkmm100@gmail.com)  
+💼 [linkedin.com/in/sai-nath-849121221](https://www.linkedin.com/in/sai-nath-849121221/)  
 
 ---
 
