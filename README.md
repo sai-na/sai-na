@@ -1,10 +1,10 @@
 # Sai Nath
 
-**R&D Engineer @ Groovy Tusker · Founder @ [Meru Apps](https://github.com/sai-na)**  
+**R&D Engineer @ Groovy Tusker · Founder @ Meru Apps**  
 Kerala, India 🇮🇳 · Flutter · AI · Offline-first mobile.
 
 I ship privacy-focused Android apps and AI-powered systems for B2B clients.  
-Building [Meru Apps](https://github.com/sai-na) into a sustainable indie studio — one app at a time.
+Building Meru Apps into a sustainable indie studio — one app at a time.
 
 > *Named after Mount Meru. The trek is the goal. The apps fund the climb.*
 
@@ -14,8 +14,8 @@ Building [Meru Apps](https://github.com/sai-na) into a sustainable indie studio 
 
 | Project | What | Status |
 |---|---|---|
-| **OctoZip** | Flutter video compressor. Offline. No bloat. | 🟢 Live on Play Store |
-| **MeisterCalc** | Construction calculator for trades. | 🟢 Live on Play Store |
+| [**OctoZip**](https://meistercalc.web.app/) | Flutter video compressor. Offline. No bloat. | 🟢 Live on Play Store |
+| [**MeisterCalc**](https://octozip.web.app/) | Construction calculator for trades. | 🟢 Live on Play Store |
 | **CloudPilot** | OSS autonomous cloud management. Apache 2.0 + SaaS. | 🟡 Building (May 2026) |
 | **StockCast** | AI pharma inventory forecasting. B2B production. | 🟡 Active client engagement |
 
@@ -33,11 +33,12 @@ Building [Meru Apps](https://github.com/sai-na) into a sustainable indie studio 
 
 ### 📊 GitHub
 
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-na&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-na&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-na&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sai-na&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-na&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sai-na&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sai-na&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ---
 
@@ -61,4 +62,3 @@ Open to:
 
 ---
 
-<sub>Build offline-first. Ship before it's perfect. Compound.</sub>
