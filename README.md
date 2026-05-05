@@ -1,39 +1,65 @@
+# Sai Nath
 
-<!-- @format -->
+**R&D Engineer @ Groovy Tusker · Founder @ [Meru Apps](https://github.com/sai-na)**  
+Kerala, India 🇮🇳 · Flutter · AI · Offline-first mobile.
 
-<h1 align="center">Hi 👋, I'm Sai Nath A</h1>
-<h3 align="center">https://sai-na.web.app/</h3>
+I ship privacy-focused Android apps and AI-powered systems for B2B clients.  
+Building [Meru Apps](https://github.com/sai-na) into a sustainable indie studio — one app at a time.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-na&label=Profile%20views&color=0e75b6&style=flat" alt="sai-na" /> </p> -->
+> *Named after Mount Meru. The trek is the goal. The apps fund the climb.*
 
-- 💬 Ask me about **react , firebase , TS**
+---
 
-- 📫 How to reach me **saipkmm100@gmail.com**
+### 🚀 Currently Shipping
 
-<!-- - 🔭 I’m currently working on TS & redux - <a href="https://github.com/sai-na/accident-counter-rtk/tree/create-action-exercise"> repo link </a> , <a href="https://create-action-exercise--aquamarine-sfogliatella-e99639.netlify.app/">hosted link</a>
+| Project | What | Status |
+|---|---|---|
+| **OctoZip** | Flutter video compressor. Offline. No bloat. | 🟢 Live on Play Store |
+| **MeisterCalc** | Construction calculator for trades. | 🟢 Live on Play Store |
+| **CloudPilot** | OSS autonomous cloud management. Apache 2.0 + SaaS. | 🟡 Building (May 2026) |
+| **StockCast** | AI pharma inventory forecasting. B2B production. | 🟡 Active client engagement |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sai-nath-849121221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-nath-849121221/" height="30" width="40" /></a>
-</p> -->
+---
 
-<h3 align="left">Languages and Tools:</h3>
+### ⚙️ Stack
 
-  
-<p align="left">
-  
-  
- 
-  
-  
-  
-  
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="nextjs" width="40" height="40"/>
-  </a> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> </p>
+**Mobile** — Flutter · Dart · React Native  
+**Web** — React · Next.js · Node · Express  
+**Data** — PostgreSQL · MongoDB · Firebase · Prisma · Knex  
+**AI** — Claude API · GPT-4 · RAG · Vector DBs · Agentic tool loops  
+**Monetization** — RevenueCat · Mixpanel · Firebase Analytics
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-na&show_icons=true&locale=en&layout=compact" alt="sai-na" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-na&" alt="sai-na" /></p>
+### 📊 GitHub
 
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-na&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-na&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai-na&theme=tokyonight&hide_border=true)
+
+---
+
+### 🏆 Background
+
+- 🎓 B.Tech Computer Science — GEC Thrissur
+- 🥇 Winner — IPL 2.0 Challenge, Kerala Startup Mission
+- 🛠 4+ years full-stack · ~1 year Flutter
+- 💼 Previously: Infinio Technology Solutions
+
+---
+
+### 🤝 Work With Me
+
+Open to:
+- **B2B contracts** — Flutter apps, AI integration, custom backends
+- **Indie collaborations** — privacy-focused mobile utilities
+
+📩 [Add your email]  
+💼 [Add your LinkedIn]  
+🐙 [Meru Apps](https://github.com/sai-na)
+
+---
+
+<sub>Build offline-first. Ship before it's perfect. Compound.</sub>
