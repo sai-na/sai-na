@@ -16,7 +16,7 @@ Building Meru Apps into a sustainable indie studio — one app at a time.
 |---|---|---|
 | [**OctoZip**](https://octozip.web.app/) | Flutter video compressor. Offline. No bloat. | 🟢 Play Store |
 | [**MeisterCalc**](https://meistercalc.com) | Construction calculator for trades. | 🟢 Play Store |
-| **CloudPilot** | OSS autonomous cloud management. Apache 2.0 + SaaS. | 🟡 Building (May 2026) |
+| **CloudPilot** | OSS autonomous cloud management. Apache 2.0 + SaaS. | 🟡 Building (june  2026) |
 | **StockCast** | AI pharma inventory forecasting. B2B production. | 🟡 Active client engagement |
 
 ---
