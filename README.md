@@ -17,7 +17,7 @@ Building Meru Apps into a sustainable indie studio — one app at a time.
 | [**OctoZip**](https://octozip.web.app/) | Flutter video compressor. Offline. No bloat. | 🟢 Play Store |
 | [**PinFolder**](https://github.com/sai-na/PinFolder) | Pins for macOS Finder. Menu bar, folder top, sidebar. | 🟢 v1.0.0 · Homebrew |
 | [**MeisterCalc**](https://meistercalc.com) | Construction calculator for trades. | 🟢 Play Store |
-| [**Claude Mac Mleanup**](https://github.com/sai-na/claude-mac-cleanup) | Reclaim macOS disk & RAM, safely. Claude Code skill. | 🟢 v0.1.0 · Plugin |
+| [**Claude Mac Cleanup**](https://github.com/sai-na/claude-mac-cleanup) | Reclaim macOS disk & RAM, safely. Claude Code skill. | 🟢 v0.1.0 · Plugin |
 | **CloudPilot** | OSS autonomous cloud management. Apache 2.0 + SaaS. | 🟡 Building ( October  2026) |
 | **StockCast** | AI pharma inventory forecasting. B2B production. | 🟡 Active client engagement |
 
